@@ -1,5 +1,7 @@
 **Please note: this repository is no longer being maintained.**
 
+**For the latest version of GraphINVENT, please see [github.com/ailab-bio/GraphINVENT2](https://github.com/ailab-bio/GraphINVENT2).**
+
 # GraphINVENT
 
 ![cover image](./cover-image.png)
